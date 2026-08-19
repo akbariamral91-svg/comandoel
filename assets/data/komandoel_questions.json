@@ -1,0 +1,1352 @@
+[
+  {
+    "id": 1,
+    "type": "short_answer",
+    "category": "general",
+    "difficulty": 1,
+    "time": 7,
+    "question": "نماد صلح معمولاً کدام پرنده است؟",
+    "answer": "کبوتر"
+  },
+  {
+    "id": 2,
+    "type": "short_answer",
+    "category": "general",
+    "difficulty": 1,
+    "time": 7,
+    "question": "رنگ چراغ راهنمایی برای توقف چیست؟",
+    "answer": "قرمز"
+  },
+  {
+    "id": 3,
+    "type": "short_answer",
+    "category": "general",
+    "difficulty": 2,
+    "time": 7,
+    "question": "واحد پول ژاپن چیست؟",
+    "answer": "ین"
+  },
+  {
+    "id": 4,
+    "type": "short_answer",
+    "category": "general",
+    "difficulty": 2,
+    "time": 7,
+    "question": "واحد پول انگلستان چیست؟",
+    "answer": "پوند"
+  },
+  {
+    "id": 5,
+    "type": "short_answer",
+    "category": "general",
+    "difficulty": 2,
+    "time": 7,
+    "question": "نماد المپیک از چند حلقه تشکیل شده؟",
+    "answer": "پنج"
+  },
+  {
+    "id": 6,
+    "type": "short_answer",
+    "category": "general",
+    "difficulty": 2,
+    "time": 7,
+    "question": "نماد بین‌المللی بازیافت چند فلش دارد؟",
+    "answer": "سه"
+  },
+  {
+    "id": 7,
+    "type": "short_answer",
+    "category": "general",
+    "difficulty": 1,
+    "time": 7,
+    "question": "پول رایج مشترک کشورهای اروپایی چه نام دارد؟",
+    "answer": "یورو"
+  },
+  {
+    "id": 8,
+    "type": "short_answer",
+    "category": "general",
+    "difficulty": 3,
+    "time": 7,
+    "question": "نماد ریاضی بی‌نهایت شبیه کدام عدد خوابیده است؟",
+    "answer": "هشت"
+  },
+  {
+    "id": 9,
+    "type": "short_answer",
+    "category": "general",
+    "difficulty": 1,
+    "time": 7,
+    "question": "کدام فلز را آهنربا بیشتر از همه جذب می‌کند؟",
+    "answer": "آهن"
+  },
+  {
+    "id": 10,
+    "type": "short_answer",
+    "category": "iran",
+    "difficulty": 2,
+    "time": 7,
+    "question": "بلندترین قله ایران کدام است؟",
+    "answer": "دماوند"
+  },
+  {
+    "id": 11,
+    "type": "short_answer",
+    "category": "iran",
+    "difficulty": 2,
+    "time": 7,
+    "question": "طولانی‌ترین رودخانه ایران کدام است؟",
+    "answer": "کارون"
+  },
+  {
+    "id": 12,
+    "type": "short_answer",
+    "category": "iran",
+    "difficulty": 2,
+    "time": 7,
+    "question": "نماد وسط پرچم ایران چه کلمه‌ای است؟",
+    "answer": "الله"
+  },
+  {
+    "id": 13,
+    "type": "short_answer",
+    "category": "iran",
+    "difficulty": 1,
+    "time": 7,
+    "question": "ایران در کدام قاره واقع شده؟",
+    "answer": "آسیا"
+  },
+  {
+    "id": 14,
+    "type": "short_answer",
+    "category": "iran",
+    "difficulty": 2,
+    "time": 7,
+    "question": "بزرگ‌ترین جزیره ایران در خلیج فارس کدام است؟",
+    "answer": "قشم"
+  },
+  {
+    "id": 15,
+    "type": "short_answer",
+    "category": "iran",
+    "difficulty": 2,
+    "time": 7,
+    "question": "مشهورترین میدان تاریخی اصفهان چه نام دارد؟",
+    "answer": "نقش جهان"
+  },
+  {
+    "id": 16,
+    "type": "short_answer",
+    "category": "iran",
+    "difficulty": 1,
+    "time": 7,
+    "question": "خلیج فارس در جنوب کدام کشور قرار دارد؟",
+    "answer": "ایران"
+  },
+  {
+    "id": 17,
+    "type": "short_answer",
+    "category": "iran",
+    "difficulty": 2,
+    "time": 7,
+    "question": "دریاچه نمکی معروف نزدیک قم و تهران چه نام دارد؟",
+    "answer": "دریاچه نمک"
+  },
+  {
+    "id": 18,
+    "type": "short_answer",
+    "category": "geography",
+    "difficulty": 2,
+    "time": 7,
+    "question": "بزرگ‌ترین اقیانوس جهان کدام است؟",
+    "answer": "اقیانوس آرام"
+  },
+  {
+    "id": 19,
+    "type": "short_answer",
+    "category": "geography",
+    "difficulty": 2,
+    "time": 7,
+    "question": "بزرگ‌ترین قاره جهان کدام است؟",
+    "answer": "آسیا"
+  },
+  {
+    "id": 20,
+    "type": "short_answer",
+    "category": "geography",
+    "difficulty": 2,
+    "time": 7,
+    "question": "کوچک‌ترین قاره جهان کدام است؟",
+    "answer": "استرالیا"
+  },
+  {
+    "id": 21,
+    "type": "short_answer",
+    "category": "geography",
+    "difficulty": 2,
+    "time": 7,
+    "question": "بلندترین کوه جهان کدام است؟",
+    "answer": "اورست"
+  },
+  {
+    "id": 22,
+    "type": "short_answer",
+    "category": "geography",
+    "difficulty": 3,
+    "time": 7,
+    "question": "بزرگ‌ترین کویر شنی جهان که در آفریقا قرار دارد چه نام دارد؟",
+    "answer": "صحرای کبیر"
+  },
+  {
+    "id": 23,
+    "type": "short_answer",
+    "category": "geography",
+    "difficulty": 2,
+    "time": 7,
+    "question": "بزرگ‌ترین کشور جهان از نظر مساحت کدام است؟",
+    "answer": "روسیه"
+  },
+  {
+    "id": 24,
+    "type": "short_answer",
+    "category": "geography",
+    "difficulty": 2,
+    "time": 7,
+    "question": "طولانی‌ترین رودخانه مصر چه نام دارد؟",
+    "answer": "نیل"
+  },
+  {
+    "id": 25,
+    "type": "short_answer",
+    "category": "geography",
+    "difficulty": 1,
+    "time": 7,
+    "question": "کدام کشور به شکل چکمه معروف است؟",
+    "answer": "ایتالیا"
+  },
+  {
+    "id": 26,
+    "type": "short_answer",
+    "category": "history",
+    "difficulty": 2,
+    "time": 7,
+    "question": "بنیان‌گذار امپراتوری هخامنشی چه کسی بود؟",
+    "answer": "کوروش بزرگ"
+  },
+  {
+    "id": 27,
+    "type": "short_answer",
+    "category": "history",
+    "difficulty": 3,
+    "time": 7,
+    "question": "قدیمی‌ترین تمدن شناخته‌شده بشری در بین‌النهرین چه نام داشت؟",
+    "answer": "سومر"
+  },
+  {
+    "id": 28,
+    "type": "short_answer",
+    "category": "history",
+    "difficulty": 2,
+    "time": 7,
+    "question": "مصریان باستان برای دفن فراعنه چه بناهای عظیمی ساختند؟",
+    "answer": "اهرام"
+  },
+  {
+    "id": 29,
+    "type": "short_answer",
+    "category": "history",
+    "difficulty": 1,
+    "time": 7,
+    "question": "دیوار دفاعی عظیمی که در چین باستان ساخته شد چه نام دارد؟",
+    "answer": "دیوار چین"
+  },
+  {
+    "id": 30,
+    "type": "short_answer",
+    "category": "history",
+    "difficulty": 2,
+    "time": 7,
+    "question": "سراینده حماسه بزرگ «شاهنامه» چه کسی بود؟",
+    "answer": "فردوسی"
+  },
+  {
+    "id": 31,
+    "type": "short_answer",
+    "category": "history",
+    "difficulty": 2,
+    "time": 7,
+    "question": "نخستین انسانی که پا بر کره ماه گذاشت چه نام داشت؟",
+    "answer": "نیل آرمسترانگ"
+  },
+  {
+    "id": 32,
+    "type": "short_answer",
+    "category": "science",
+    "difficulty": 1,
+    "time": 7,
+    "question": "حالت جامد آب چه نام دارد؟",
+    "answer": "یخ"
+  },
+  {
+    "id": 33,
+    "type": "short_answer",
+    "category": "science",
+    "difficulty": 1,
+    "time": 7,
+    "question": "حالت گازی آب چه نام دارد؟",
+    "answer": "بخار"
+  },
+  {
+    "id": 34,
+    "type": "short_answer",
+    "category": "science",
+    "difficulty": 2,
+    "time": 7,
+    "question": "نزدیک‌ترین سیاره به خورشید کدام است؟",
+    "answer": "عطارد"
+  },
+  {
+    "id": 35,
+    "type": "short_answer",
+    "category": "science",
+    "difficulty": 2,
+    "time": 7,
+    "question": "بزرگ‌ترین سیاره منظومه شمسی کدام است؟",
+    "answer": "مشتری"
+  },
+  {
+    "id": 36,
+    "type": "short_answer",
+    "category": "science",
+    "difficulty": 1,
+    "time": 7,
+    "question": "نیرویی که اجسام را به سمت زمین می‌کشد چه نام دارد؟",
+    "answer": "جاذبه"
+  },
+  {
+    "id": 37,
+    "type": "short_answer",
+    "category": "science",
+    "difficulty": 2,
+    "time": 7,
+    "question": "فرآیندی که گیاهان با نور خورشید غذا می‌سازند چه نام دارد؟",
+    "answer": "فتوسنتز"
+  },
+  {
+    "id": 38,
+    "type": "short_answer",
+    "category": "science",
+    "difficulty": 2,
+    "time": 7,
+    "question": "گلبول‌های قرمز خون چه گازی را در بدن حمل می‌کنند؟",
+    "answer": "اکسیژن"
+  },
+  {
+    "id": 39,
+    "type": "short_answer",
+    "category": "science",
+    "difficulty": 2,
+    "time": 7,
+    "question": "واحد اندازه‌گیری صدا چیست؟",
+    "answer": "دسیبل"
+  },
+  {
+    "id": 40,
+    "type": "short_answer",
+    "category": "science",
+    "difficulty": 1,
+    "time": 7,
+    "question": "ترکیب نور آبی و زرد چه رنگی تولید می‌کند؟",
+    "answer": "سبز"
+  },
+  {
+    "id": 41,
+    "type": "short_answer",
+    "category": "human_body",
+    "difficulty": 1,
+    "time": 7,
+    "question": "بزرگ‌ترین اندام بدن انسان کدام است؟",
+    "answer": "پوست"
+  },
+  {
+    "id": 42,
+    "type": "short_answer",
+    "category": "human_body",
+    "difficulty": 1,
+    "time": 7,
+    "question": "اندامی که خون را در بدن پمپاژ می‌کند چیست؟",
+    "answer": "قلب"
+  },
+  {
+    "id": 43,
+    "type": "short_answer",
+    "category": "human_body",
+    "difficulty": 1,
+    "time": 7,
+    "question": "اندام اصلی تنفس در بدن چیست؟",
+    "answer": "ریه"
+  },
+  {
+    "id": 44,
+    "type": "short_answer",
+    "category": "human_body",
+    "difficulty": 1,
+    "time": 7,
+    "question": "با کدام اندام می‌بینیم؟",
+    "answer": "چشم"
+  },
+  {
+    "id": 45,
+    "type": "short_answer",
+    "category": "human_body",
+    "difficulty": 1,
+    "time": 7,
+    "question": "غذا در کدام اندام هضم می‌شود؟",
+    "answer": "معده"
+  },
+  {
+    "id": 46,
+    "type": "short_answer",
+    "category": "human_body",
+    "difficulty": 1,
+    "time": 7,
+    "question": "کدام اندام مرکز فکر کردن بدن است؟",
+    "answer": "مغز"
+  },
+  {
+    "id": 47,
+    "type": "short_answer",
+    "category": "animals",
+    "difficulty": 1,
+    "time": 7,
+    "question": "کدام حیوان به «کشتی صحرا» معروف است؟",
+    "answer": "شتر"
+  },
+  {
+    "id": 48,
+    "type": "short_answer",
+    "category": "animals",
+    "difficulty": 2,
+    "time": 7,
+    "question": "در افسانه‌های غربی، کدام پرنده نماد دانایی است؟",
+    "answer": "جغد"
+  },
+  {
+    "id": 49,
+    "type": "short_answer",
+    "category": "animals",
+    "difficulty": 1,
+    "time": 7,
+    "question": "کدام حیوان رنگ پوست خود را تغییر می‌دهد؟",
+    "answer": "آفتاب‌پرست"
+  },
+  {
+    "id": 50,
+    "type": "short_answer",
+    "category": "animals",
+    "difficulty": 1,
+    "time": 7,
+    "question": "کدام حیوان عسل تولید می‌کند؟",
+    "answer": "زنبور"
+  },
+  {
+    "id": 51,
+    "type": "short_answer",
+    "category": "animals",
+    "difficulty": 1,
+    "time": 7,
+    "question": "کدام حیوان بهترین دوست انسان لقب گرفته؟",
+    "answer": "سگ"
+  },
+  {
+    "id": 52,
+    "type": "short_answer",
+    "category": "animals",
+    "difficulty": 2,
+    "time": 7,
+    "question": "کرم ابریشم در نهایت به چه حشره بالداری تبدیل می‌شود؟",
+    "answer": "شب‌پره"
+  },
+  {
+    "id": 53,
+    "type": "short_answer",
+    "category": "animals",
+    "difficulty": 1,
+    "time": 7,
+    "question": "به کدام حیوان «سلطان جنگل» می‌گویند؟",
+    "answer": "شیر"
+  },
+  {
+    "id": 54,
+    "type": "short_answer",
+    "category": "animals",
+    "difficulty": 1,
+    "time": 7,
+    "question": "کدام حیوان گردنی بلندتر از همه دارد؟",
+    "answer": "زرافه"
+  },
+  {
+    "id": 55,
+    "type": "short_answer",
+    "category": "animals",
+    "difficulty": 1,
+    "time": 7,
+    "question": "سریع‌ترین حیوان خشکی‌زی کدام است؟",
+    "answer": "یوزپلنگ"
+  },
+  {
+    "id": 56,
+    "type": "short_answer",
+    "category": "nature",
+    "difficulty": 1,
+    "time": 7,
+    "question": "پدیده رنگی که بعد از باران در آسمان دیده می‌شود چه نام دارد؟",
+    "answer": "رنگین‌کمان"
+  },
+  {
+    "id": 57,
+    "type": "short_answer",
+    "category": "nature",
+    "difficulty": 2,
+    "time": 7,
+    "question": "چرخش زمین به دور خودش باعث ایجاد چه چیزی می‌شود؟",
+    "answer": "روز و شب"
+  },
+  {
+    "id": 58,
+    "type": "short_answer",
+    "category": "nature",
+    "difficulty": 1,
+    "time": 7,
+    "question": "در کدام فصل برگ درختان می‌ریزد؟",
+    "answer": "پاییز"
+  },
+  {
+    "id": 59,
+    "type": "short_answer",
+    "category": "nature",
+    "difficulty": 1,
+    "time": 7,
+    "question": "در کدام فصل هوا سردتر می‌شود و برف می‌بارد؟",
+    "answer": "زمستان"
+  },
+  {
+    "id": 60,
+    "type": "short_answer",
+    "category": "nature",
+    "difficulty": 1,
+    "time": 7,
+    "question": "چه چیزی از آسمان می‌تابد و هوا را روشن و گرم می‌کند؟",
+    "answer": "خورشید"
+  },
+  {
+    "id": 61,
+    "type": "short_answer",
+    "category": "food",
+    "difficulty": 2,
+    "time": 7,
+    "question": "خورش معروف ایرانی با سبزی معطر و لیمو عمانی چه نام دارد؟",
+    "answer": "قورمه‌سبزی"
+  },
+  {
+    "id": 62,
+    "type": "short_answer",
+    "category": "food",
+    "difficulty": 1,
+    "time": 7,
+    "question": "نوشیدنی گرم که از دانه‌های برشته‌شده تهیه می‌شود چه نام دارد؟",
+    "answer": "قهوه"
+  },
+  {
+    "id": 63,
+    "type": "short_answer",
+    "category": "food",
+    "difficulty": 1,
+    "time": 7,
+    "question": "غذای ایتالیایی با پنیر و گوجه روی خمیر نازک چه نام دارد؟",
+    "answer": "پیتزا"
+  },
+  {
+    "id": 64,
+    "type": "short_answer",
+    "category": "food",
+    "difficulty": 2,
+    "time": 7,
+    "question": "غذای ژاپنی با برنج و ماهی خام چه نام دارد؟",
+    "answer": "سوشی"
+  },
+  {
+    "id": 65,
+    "type": "short_answer",
+    "category": "food",
+    "difficulty": 1,
+    "time": 7,
+    "question": "دسر یخی و سرد که در تابستان محبوب است چه نام دارد؟",
+    "answer": "بستنی"
+  },
+  {
+    "id": 66,
+    "type": "short_answer",
+    "category": "food",
+    "difficulty": 1,
+    "time": 7,
+    "question": "نوشیدنی گازدار با رنگ قهوه‌ای تیره معمولاً چه نام دارد؟",
+    "answer": "کولا"
+  },
+  {
+    "id": 67,
+    "type": "short_answer",
+    "category": "food",
+    "difficulty": 2,
+    "time": 7,
+    "question": "نان شیرین حلقه‌ای با سوراخ وسط در آمریکا چه نام دارد؟",
+    "answer": "دونات"
+  },
+  {
+    "id": 68,
+    "type": "short_answer",
+    "category": "food",
+    "difficulty": 1,
+    "time": 7,
+    "question": "غذای فست‌فود با نان، گوشت و سبزیجات چه نام دارد؟",
+    "answer": "همبرگر"
+  },
+  {
+    "id": 69,
+    "type": "short_answer",
+    "category": "sports",
+    "difficulty": 1,
+    "time": 7,
+    "question": "وقتی توپ در فوتبال وارد دروازه شود چه می‌گویند؟",
+    "answer": "گل"
+  },
+  {
+    "id": 70,
+    "type": "short_answer",
+    "category": "sports",
+    "difficulty": 1,
+    "time": 7,
+    "question": "در والیبال، توپ باید از روی چه چیزی رد شود؟",
+    "answer": "تور"
+  },
+  {
+    "id": 71,
+    "type": "short_answer",
+    "category": "sports",
+    "difficulty": 1,
+    "time": 7,
+    "question": "در بسکتبال، توپ باید داخل چه چیزی بیفتد؟",
+    "answer": "سبد"
+  },
+  {
+    "id": 72,
+    "type": "short_answer",
+    "category": "sports",
+    "difficulty": 1,
+    "time": 7,
+    "question": "ورزشی که در آن دو نفر با دستکش مشت می‌زنند چه نام دارد؟",
+    "answer": "بوکس"
+  },
+  {
+    "id": 73,
+    "type": "short_answer",
+    "category": "sports",
+    "difficulty": 2,
+    "time": 7,
+    "question": "ورزشی که روی یخ با چوب و توپ کوچک بازی می‌شود چه نام دارد؟",
+    "answer": "هاکی"
+  },
+  {
+    "id": 74,
+    "type": "short_answer",
+    "category": "sports",
+    "difficulty": 2,
+    "time": 7,
+    "question": "مسابقه دوی مسافت طولانی که نامش از یک شهر یونانی گرفته شده چه نام دارد؟",
+    "answer": "ماراتن"
+  },
+  {
+    "id": 75,
+    "type": "short_answer",
+    "category": "sports",
+    "difficulty": 2,
+    "time": 7,
+    "question": "سریع‌ترین سبک شنا چه نام دارد؟",
+    "answer": "کرال"
+  },
+  {
+    "id": 76,
+    "type": "short_answer",
+    "category": "sports",
+    "difficulty": 1,
+    "time": 7,
+    "question": "توپ کوچک سفید با گودی‌های زیاد در کدام ورزش استفاده می‌شود؟",
+    "answer": "گلف"
+  },
+  {
+    "id": 77,
+    "type": "short_answer",
+    "category": "technology",
+    "difficulty": 1,
+    "time": 7,
+    "question": "شرکت سازنده آیفون چه نام دارد؟",
+    "answer": "اپل"
+  },
+  {
+    "id": 78,
+    "type": "short_answer",
+    "category": "technology",
+    "difficulty": 1,
+    "time": 7,
+    "question": "معروف‌ترین موتور جستجوی جهان با لوگوی رنگی چه نام دارد؟",
+    "answer": "گوگل"
+  },
+  {
+    "id": 79,
+    "type": "short_answer",
+    "category": "technology",
+    "difficulty": 2,
+    "time": 7,
+    "question": "سیستم‌عامل موبایل ساخته شرکت گوگل چه نام دارد؟",
+    "answer": "اندروید"
+  },
+  {
+    "id": 80,
+    "type": "short_answer",
+    "category": "technology",
+    "difficulty": 1,
+    "time": 7,
+    "question": "وسیله‌ای که برای تایپ روی کامپیوتر استفاده می‌شود چه نام دارد؟",
+    "answer": "کیبورد"
+  },
+  {
+    "id": 81,
+    "type": "short_answer",
+    "category": "technology",
+    "difficulty": 1,
+    "time": 7,
+    "question": "دستگاهی که برای گرفتن عکس دیجیتال استفاده می‌شود چه نام دارد؟",
+    "answer": "دوربین"
+  },
+  {
+    "id": 82,
+    "type": "short_answer",
+    "category": "technology",
+    "difficulty": 2,
+    "time": 7,
+    "question": "شرکت سازنده ویندوز چه نام دارد؟",
+    "answer": "مایکروسافت"
+  },
+  {
+    "id": 83,
+    "type": "short_answer",
+    "category": "internet",
+    "difficulty": 1,
+    "time": 7,
+    "question": "سایتی که ویدیو آپلود می‌شود و لوگوی قرمز دارد چه نام دارد؟",
+    "answer": "یوتیوب"
+  },
+  {
+    "id": 84,
+    "type": "short_answer",
+    "category": "internet",
+    "difficulty": 1,
+    "time": 7,
+    "question": "برنامه پیام‌رسان با لوگوی سبز رنگ چه نام دارد؟",
+    "answer": "واتساپ"
+  },
+  {
+    "id": 85,
+    "type": "short_answer",
+    "category": "internet",
+    "difficulty": 1,
+    "time": 7,
+    "question": "برنامه پیام‌رسان با لوگوی آبی و هواپیمای کاغذی چه نام دارد؟",
+    "answer": "تلگرام"
+  },
+  {
+    "id": 86,
+    "type": "short_answer",
+    "category": "internet",
+    "difficulty": 2,
+    "time": 7,
+    "question": "آدرس یک صفحه اینترنتی را معمولاً چه می‌نامند؟",
+    "answer": "لینک"
+  },
+  {
+    "id": 87,
+    "type": "short_answer",
+    "category": "internet",
+    "difficulty": 2,
+    "time": 7,
+    "question": "پرکاربردترین فرمت فایل فشرده در کامپیوتر چه نام دارد؟",
+    "answer": "زیپ"
+  },
+  {
+    "id": 88,
+    "type": "short_answer",
+    "category": "internet",
+    "difficulty": 1,
+    "time": 7,
+    "question": "رمز عبور ورود به حساب کاربری چه نام دارد؟",
+    "answer": "پسورد"
+  },
+  {
+    "id": 89,
+    "type": "short_answer",
+    "category": "social_media",
+    "difficulty": 1,
+    "time": 7,
+    "question": "برنامه اشتراک عکس با لوگوی دوربین متعلق به متا چه نام دارد؟",
+    "answer": "اینستاگرام"
+  },
+  {
+    "id": 90,
+    "type": "short_answer",
+    "category": "social_media",
+    "difficulty": 1,
+    "time": 7,
+    "question": "شبکه اجتماعی ویدیوهای کوتاه بسیار محبوب جوانان چه نام دارد؟",
+    "answer": "تیک‌تاک"
+  },
+  {
+    "id": 91,
+    "type": "short_answer",
+    "category": "social_media",
+    "difficulty": 1,
+    "time": 7,
+    "question": "شکل دکمه پسندیدن پست در اینستاگرام چیست؟",
+    "answer": "قلب"
+  },
+  {
+    "id": 92,
+    "type": "short_answer",
+    "category": "social_media",
+    "difficulty": 2,
+    "time": 7,
+    "question": "شرکت مادر اینستاگرام و فیسبوک چه نام دارد؟",
+    "answer": "متا"
+  },
+  {
+    "id": 93,
+    "type": "short_answer",
+    "category": "social_media",
+    "difficulty": 1,
+    "time": 7,
+    "question": "محتوای ۲۴ ساعته در اینستاگرام چه نام دارد؟",
+    "answer": "استوری"
+  },
+  {
+    "id": 94,
+    "type": "short_answer",
+    "category": "social_media",
+    "difficulty": 1,
+    "time": 7,
+    "question": "پیام کوتاهی که در توییتر/ایکس فرستاده می‌شود چه نام دارد؟",
+    "answer": "توییت"
+  },
+  {
+    "id": 95,
+    "type": "short_answer",
+    "category": "social_media",
+    "difficulty": 2,
+    "time": 7,
+    "question": "نام قبلی شبکه اجتماعی «ایکس» که با لوگوی پرنده آبی شناخته می‌شد چه بود؟",
+    "answer": "توییتر"
+  },
+  {
+    "id": 96,
+    "type": "short_answer",
+    "category": "movies",
+    "difficulty": 1,
+    "time": 7,
+    "question": "شخصیت عنکبوتی مارول چه نام دارد؟",
+    "answer": "مرد عنکبوتی"
+  },
+  {
+    "id": 97,
+    "type": "short_answer",
+    "category": "movies",
+    "difficulty": 1,
+    "time": 7,
+    "question": "موش کارتونی معروف دیزنی با گوش‌های گرد چه نام دارد؟",
+    "answer": "میکی‌ماوس"
+  },
+  {
+    "id": 98,
+    "type": "short_answer",
+    "category": "movies",
+    "difficulty": 2,
+    "time": 7,
+    "question": "خرس عروسکی عاشق عسل در کارتون چه نام دارد؟",
+    "answer": "پو"
+  },
+  {
+    "id": 99,
+    "type": "short_answer",
+    "category": "movies",
+    "difficulty": 1,
+    "time": 7,
+    "question": "ابرقهرمان با لباس آبی و قرمز و توانایی پرواز از دی‌سی چه نام دارد؟",
+    "answer": "سوپرمن"
+  },
+  {
+    "id": 100,
+    "type": "short_answer",
+    "category": "movies",
+    "difficulty": 2,
+    "time": 7,
+    "question": "فیلم معروف درباره کشتی برخوردکرده با کوه یخ چه نام دارد؟",
+    "answer": "تایتانیک"
+  },
+  {
+    "id": 101,
+    "type": "short_answer",
+    "category": "movies",
+    "difficulty": 2,
+    "time": 7,
+    "question": "در فیلم‌های هری پاتر، مدرسه جادوگری چه نام دارد؟",
+    "answer": "هاگوارتز"
+  },
+  {
+    "id": 102,
+    "type": "short_answer",
+    "category": "movies",
+    "difficulty": 2,
+    "time": 7,
+    "question": "دزد دریایی معروف با بازی جانی دپ چه نام دارد؟",
+    "answer": "جک اسپارو"
+  },
+  {
+    "id": 103,
+    "type": "short_answer",
+    "category": "animation",
+    "difficulty": 1,
+    "time": 7,
+    "question": "اسفنج زرد رنگی که در اقیانوس زندگی می‌کند چه نام دارد؟",
+    "answer": "باب‌اسفنجی"
+  },
+  {
+    "id": 104,
+    "type": "short_answer",
+    "category": "animation",
+    "difficulty": 1,
+    "time": 7,
+    "question": "گربه و موش معروف کارتونی که همیشه دنبال هم هستند چه نام دارند؟",
+    "answer": "تام و جری"
+  },
+  {
+    "id": 105,
+    "type": "short_answer",
+    "category": "animation",
+    "difficulty": 2,
+    "time": 7,
+    "question": "شیر بچه در انیمیشن شیرشاه چه نام دارد؟",
+    "answer": "سیمبا"
+  },
+  {
+    "id": 106,
+    "type": "short_answer",
+    "category": "animation",
+    "difficulty": 2,
+    "time": 7,
+    "question": "ماهی کوچک نارنجی که در انیمیشن دنبال پدرش می‌گردد چه نام دارد؟",
+    "answer": "نمو"
+  },
+  {
+    "id": 107,
+    "type": "short_answer",
+    "category": "animation",
+    "difficulty": 2,
+    "time": 7,
+    "question": "روباتی که در انیمیشن پیکسار زمین را از زباله پاک می‌کند چه نام دارد؟",
+    "answer": "وال-ای"
+  },
+  {
+    "id": 108,
+    "type": "short_answer",
+    "category": "animation",
+    "difficulty": 2,
+    "time": 7,
+    "question": "خرگوش شرور و باهوش کارتونی وارنر برادرز چه نام دارد؟",
+    "answer": "باگز بانی"
+  },
+  {
+    "id": 109,
+    "type": "short_answer",
+    "category": "video_games",
+    "difficulty": 1,
+    "time": 7,
+    "question": "شخصیت اصلی بازی ماریو چه شغلی دارد؟",
+    "answer": "لوله‌کش"
+  },
+  {
+    "id": 110,
+    "type": "short_answer",
+    "category": "video_games",
+    "difficulty": 1,
+    "time": 7,
+    "question": "بازی محبوب با بلوک‌های ساختنی مکعبی چه نام دارد؟",
+    "answer": "ماینکرفت"
+  },
+  {
+    "id": 111,
+    "type": "short_answer",
+    "category": "video_games",
+    "difficulty": 1,
+    "time": 7,
+    "question": "بازی معروف با جوجه‌های عصبانی پرتاب‌شونده به خوک‌ها چه نام دارد؟",
+    "answer": "انگری بردز"
+  },
+  {
+    "id": 112,
+    "type": "short_answer",
+    "category": "video_games",
+    "difficulty": 2,
+    "time": 7,
+    "question": "بازی بتل‌رویال بسیار محبوب با رقص‌های شخصیت‌ها چه نام دارد؟",
+    "answer": "فورتنایت"
+  },
+  {
+    "id": 113,
+    "type": "short_answer",
+    "category": "video_games",
+    "difficulty": 1,
+    "time": 7,
+    "question": "شخصیت اصلی بازی پک‌من چه رنگی است؟",
+    "answer": "زرد"
+  },
+  {
+    "id": 114,
+    "type": "short_answer",
+    "category": "video_games",
+    "difficulty": 1,
+    "time": 7,
+    "question": "کنسول بازی محبوب شرکت سونی چه نام دارد؟",
+    "answer": "پلی‌استیشن"
+  },
+  {
+    "id": 115,
+    "type": "short_answer",
+    "category": "video_games",
+    "difficulty": 1,
+    "time": 7,
+    "question": "کنسول بازی محبوب شرکت مایکروسافت چه نام دارد؟",
+    "answer": "ایکس‌باکس"
+  },
+  {
+    "id": 116,
+    "type": "short_answer",
+    "category": "music",
+    "difficulty": 2,
+    "time": 7,
+    "question": "گروه موسیقی راک بریتانیایی دهه ۶۰ با چهار عضو و ترانه‌های جاودانه چه نام داشت؟",
+    "answer": "بیتلز"
+  },
+  {
+    "id": 117,
+    "type": "short_answer",
+    "category": "music",
+    "difficulty": 2,
+    "time": 7,
+    "question": "خواننده معروف آمریکایی به لقب «پادشاه پاپ» شناخته می‌شود؛ نامش چیست؟",
+    "answer": "مایکل جکسون"
+  },
+  {
+    "id": 118,
+    "type": "short_answer",
+    "category": "music",
+    "difficulty": 1,
+    "time": 7,
+    "question": "در پیانو، صدا با فشردن چه چیزی تولید می‌شود؟",
+    "answer": "کلید"
+  },
+  {
+    "id": 119,
+    "type": "short_answer",
+    "category": "music",
+    "difficulty": 2,
+    "time": 7,
+    "question": "ساز بادی چوبی سنتی ایرانی که با دمیدن نواخته می‌شود چه نام دارد؟",
+    "answer": "نی"
+  },
+  {
+    "id": 120,
+    "type": "short_answer",
+    "category": "music",
+    "difficulty": 3,
+    "time": 7,
+    "question": "گروه سوئدی معروف دهه هفتاد با آهنگ‌های پرطرفدار دیسکو چه نام داشت؟",
+    "answer": "آبا"
+  },
+  {
+    "id": 121,
+    "type": "short_answer",
+    "category": "music",
+    "difficulty": 2,
+    "time": 7,
+    "question": "به مجموعه‌ای از نوازندگان که آلات مختلف را هم‌زمان می‌نوازند چه می‌گویند؟",
+    "answer": "ارکستر"
+  },
+  {
+    "id": 122,
+    "type": "short_answer",
+    "category": "culture",
+    "difficulty": 1,
+    "time": 7,
+    "question": "جشن سال نو ایرانیان چه نام دارد؟",
+    "answer": "نوروز"
+  },
+  {
+    "id": 123,
+    "type": "short_answer",
+    "category": "culture",
+    "difficulty": 2,
+    "time": 7,
+    "question": "طولانی‌ترین شب سال که ایرانی‌ها جشن می‌گیرند چه نام دارد؟",
+    "answer": "یلدا"
+  },
+  {
+    "id": 124,
+    "type": "short_answer",
+    "category": "culture",
+    "difficulty": 2,
+    "time": 7,
+    "question": "سفره هفت‌سین معمولاً چند نوع سین دارد؟",
+    "answer": "هفت"
+  },
+  {
+    "id": 125,
+    "type": "short_answer",
+    "category": "culture",
+    "difficulty": 1,
+    "time": 7,
+    "question": "زبان رسمی ایران چیست؟",
+    "answer": "فارسی"
+  },
+  {
+    "id": 126,
+    "type": "short_answer",
+    "category": "culture",
+    "difficulty": 2,
+    "time": 7,
+    "question": "شهر اصفهان به کدام لقب معروف است؟",
+    "answer": "نصف جهان"
+  },
+  {
+    "id": 127,
+    "type": "short_answer",
+    "category": "logic",
+    "difficulty": 2,
+    "time": 7,
+    "question": "یک کیلو پنبه سنگین‌تر است یا یک کیلو آهن؟",
+    "answer": "برابرند"
+  },
+  {
+    "id": 128,
+    "type": "short_answer",
+    "category": "logic",
+    "difficulty": 2,
+    "time": 7,
+    "question": "عدد جا افتاده در الگوی ۲، ۴، ۶، _، ۱۰ چیست؟",
+    "answer": "۸"
+  },
+  {
+    "id": 129,
+    "type": "short_answer",
+    "category": "logic",
+    "difficulty": 2,
+    "time": 7,
+    "question": "اگر ساعت دیواری ۲ ساعت عقب باشد و ساعت واقعی ۵ باشد، ساعت دیواری چند را نشان می‌دهد؟",
+    "answer": "۳"
+  },
+  {
+    "id": 130,
+    "type": "short_answer",
+    "category": "logic",
+    "difficulty": 3,
+    "time": 7,
+    "question": "اگر در یک مسابقه، نفر دوم را جا بزنی، خودت در چه جایگاهی قرار می‌گیری؟",
+    "answer": "دوم"
+  },
+  {
+    "id": 131,
+    "type": "short_answer",
+    "category": "riddle",
+    "difficulty": 2,
+    "time": 7,
+    "question": "چه چیزی هرچه بیشتر از آن برداری، بزرگ‌تر می‌شود؟",
+    "answer": "گودال"
+  },
+  {
+    "id": 132,
+    "type": "short_answer",
+    "category": "riddle",
+    "difficulty": 2,
+    "time": 7,
+    "question": "چه چیزی دندان دارد ولی هرگز نمی‌جود؟",
+    "answer": "شانه"
+  },
+  {
+    "id": 133,
+    "type": "short_answer",
+    "category": "riddle",
+    "difficulty": 2,
+    "time": 7,
+    "question": "چه چیزی هر روز صبح می‌آید ولی هرگز نمی‌رسد؟",
+    "answer": "فردا"
+  },
+  {
+    "id": 134,
+    "type": "short_answer",
+    "category": "riddle",
+    "difficulty": 2,
+    "time": 7,
+    "question": "چه چیزی بدون پا می‌دود؟",
+    "answer": "آب"
+  },
+  {
+    "id": 135,
+    "type": "short_answer",
+    "category": "riddle",
+    "difficulty": 3,
+    "time": 7,
+    "question": "چه چیزی هرچه پیرتر می‌شود کوچک‌تر می‌شود؟",
+    "answer": "شمع"
+  },
+  {
+    "id": 136,
+    "type": "short_answer",
+    "category": "riddle",
+    "difficulty": 2,
+    "time": 7,
+    "question": "چه چیزی زبان دارد ولی نمی‌تواند حرف بزند؟",
+    "answer": "کفش"
+  },
+  {
+    "id": 137,
+    "type": "short_answer",
+    "category": "speed",
+    "difficulty": 1,
+    "time": 7,
+    "question": "اگر ساعت الان ۳ باشد، دو ساعت دیگر ساعت چند است؟",
+    "answer": "۵"
+  },
+  {
+    "id": 138,
+    "type": "short_answer",
+    "category": "speed",
+    "difficulty": 2,
+    "time": 7,
+    "question": "کدام عدد بین ۱ تا ۱۰، زوج نیست و از ۵ بزرگ‌تر و از ۹ کوچک‌تر است؟",
+    "answer": "۷"
+  },
+  {
+    "id": 139,
+    "type": "short_answer",
+    "category": "speed",
+    "difficulty": 1,
+    "time": 7,
+    "question": "اگر امروز سه‌شنبه باشد، فردا چه روزی است؟",
+    "answer": "چهارشنبه"
+  },
+  {
+    "id": 140,
+    "type": "short_answer",
+    "category": "memory",
+    "difficulty": 1,
+    "time": 7,
+    "question": "پایتخت فرانسه چیست؟",
+    "answer": "پاریس"
+  },
+  {
+    "id": 141,
+    "type": "short_answer",
+    "category": "memory",
+    "difficulty": 1,
+    "time": 7,
+    "question": "پایتخت ایتالیا چیست؟",
+    "answer": "رم"
+  },
+  {
+    "id": 142,
+    "type": "short_answer",
+    "category": "memory",
+    "difficulty": 1,
+    "time": 7,
+    "question": "پایتخت انگلستان چیست؟",
+    "answer": "لندن"
+  },
+  {
+    "id": 143,
+    "type": "short_answer",
+    "category": "memory",
+    "difficulty": 1,
+    "time": 7,
+    "question": "پایتخت ژاپن چیست؟",
+    "answer": "توکیو"
+  },
+  {
+    "id": 144,
+    "type": "short_answer",
+    "category": "memory",
+    "difficulty": 1,
+    "time": 7,
+    "question": "پایتخت آلمان چیست؟",
+    "answer": "برلین"
+  },
+  {
+    "id": 145,
+    "type": "short_answer",
+    "category": "math",
+    "difficulty": 1,
+    "time": 7,
+    "question": "عدد بعد از ۹۹ چیست؟",
+    "answer": "۱۰۰"
+  },
+  {
+    "id": 146,
+    "type": "short_answer",
+    "category": "math",
+    "difficulty": 1,
+    "time": 7,
+    "question": "نصف عدد ۵۰ چند می‌شود؟",
+    "answer": "۲۵"
+  },
+  {
+    "id": 147,
+    "type": "short_answer",
+    "category": "math",
+    "difficulty": 1,
+    "time": 7,
+    "question": "حاصل جمع ۷ و ۸ چند می‌شود؟",
+    "answer": "۱۵"
+  },
+  {
+    "id": 148,
+    "type": "short_answer",
+    "category": "math",
+    "difficulty": 1,
+    "time": 7,
+    "question": "حاصل ضرب ۳ در ۴ چند می‌شود؟",
+    "answer": "۱۲"
+  },
+  {
+    "id": 149,
+    "type": "short_answer",
+    "category": "math",
+    "difficulty": 1,
+    "time": 7,
+    "question": "شکل هندسی با سه ضلع مساوی چه نام دارد؟",
+    "answer": "مثلث"
+  },
+  {
+    "id": 150,
+    "type": "short_answer",
+    "category": "math",
+    "difficulty": 1,
+    "time": 7,
+    "question": "شکلی که هیچ گوشه‌ای ندارد و کاملاً گرد است چه نام دارد؟",
+    "answer": "دایره"
+  }
+]
