@@ -1,10 +1,13 @@
-name: Build APK
+name: Build and Release APK
 
 on:
   push:
     branches:
       - master
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -24,11 +27,15 @@ jobs:
       - name: Get dependencies
         run: flutter pub get
 
-      - name: Build APK
+      - name: Build Release APK
         run: flutter build apk --release
 
-      - name: Upload APK
-        uses: actions/upload-artifact@v4
-        with:
-          name: komandoel-release-apk
-          path: build/app/outputs/flutter-apk/app-release.apk
+      - name: Create GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TAG="v1.0.${{ github.run_number }}"
+          gh release create "$TAG" \
+            build/app/outputs/flutter-apk/app-release.apk \
+            --title "Komandoel $TAG" \
+            --generate-notes
