@@ -1,10 +1,13 @@
-name: Build Flutter APK
+name: Build and Release Flutter APK
 
 on:
   workflow_dispatch:
   push:
     branches:
       - master
+
+permissions:
+  contents: write
 
 jobs:
   build-apk:
@@ -27,8 +30,26 @@ jobs:
       - name: Build APK
         run: flutter build apk --release
 
-      - name: Upload APK
+      - name: Rename APK
+        run: cp build/app/outputs/flutter-apk/app-release.apk comandoel.apk
+
+      - name: Upload APK Artifact
         uses: actions/upload-artifact@v4
         with:
           name: comandoel-release-apk
-          path: build/app/outputs/flutter-apk/app-release.apk
+          path: comandoel.apk
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v3
+        with:
+          tag_name: v1.0.${{ github.run_number }}
+          name: Komandoel v1.0.${{ github.run_number }}
+          body: |
+            ## 🎮 کوماندوئل
+
+            نسخه جدید بازی کوماندوئل.
+
+            ### دانلود
+            فایل APK را از بخش Assets دانلود کنید.
+          files: comandoel.apk
+          generate_release_notes: true
